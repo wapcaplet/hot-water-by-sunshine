@@ -46,10 +46,23 @@ The water that's circulated between the tank and collector is separate from our
 potable water supply. You wouldn't want to drink this water; it probably tastes
 like rubber anyway. So the heat from the tank needs to be transferred to our
 potable water supply via a heat exchanger. There are a few options for how to do
-this, but I went with a 300-foot coil of 3/4" PEX tubing. This coil sits in the
-storage tank; one end is connected to our residential cold water supply, and the
-other end is connected directly to the cold-water inlet of our electric water
-heater, which becomes our "backup" heater when solar heating is insufficient:
+this, but I went with a 300-foot coil of 3/4" PEX tubing:
+
+.. image:: images/heat_exchanger.jpg
+
+Pretty early on, I gave up on any hopes of making it all neatly coiled; some
+plastic zip ties keep it from getting too unruly, but for the most part I don't
+really care if it spills all around the inside of the tank--better thermal
+circulation that way anyhow. The blue tubes in this picture are the tank inlet
+(bottom) and the collector outlet (top).
+
+One end is connected to our residential cold water supply, and the other end is
+connected directly to the cold-water inlet of our electric water heater, which
+becomes our "backup" heater when solar heating is insufficient.
+
+.. image:: images/heat_exchanger_connection.jpg
+
+This should be a no-maintenance arrangement:
 
 - If the storage tank is nice and hot (120F to 140F), the incoming cold water
   should gain sufficient heat just by going through the 300-foot PEX coil. In
@@ -70,4 +83,8 @@ I've acquired a thermostatic mixing valve, also known as a tempering valve. It's
 not installed yet (it's not clear whether it'll be needed yet), but this will
 temper the hot water coming out of the backup heater to prevent dangerously hot
 water from reaching our faucet fixtures.
+
+And just for fun, I give you: Thermal Accumulation Reservoir, Done In Style:
+
+.. image:: images/tardis.jpg
 

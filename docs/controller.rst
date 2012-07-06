@@ -21,6 +21,11 @@ the water all the way up and over the top edge of the tank that way. Moving the
 inlet to the top of the tank, and locating the pump all the way at the bottom
 seems to have solved these problems.
 
+The pump didn't come with a mounting bracket, so I just used a C-shaped plumbing
+clamp to hold it down on one side:
+
+.. image:: images/pump_connection.jpg
+
 So you've got a pump, but when should you turn it on? You could put a
 thermometer in the collector, and manually switch on the pump when it's sunny.
 Or, just run the pump directly from a photovoltaic solar panel--it would

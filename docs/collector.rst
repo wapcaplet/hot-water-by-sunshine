@@ -93,3 +93,14 @@ post. That oughta hold for a few years.
 
 .. image:: images/collector_posts.jpg
 
+With a friend's help (this thing is heavy!) I attached the collector to the top
+of the post using a couple of gate hinges. This allows easy tilt adjustment for
+better sun exposure:
+
+.. image:: images/collector_hinge.jpg
+
+The finished collector:
+
+.. image:: images/finished_collector.jpg
+
+
