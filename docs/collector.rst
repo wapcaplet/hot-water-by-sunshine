@@ -87,3 +87,9 @@ Pretty hot.
 
 .. image:: images/collector_176.jpg
 
+In order to securely mount the collector, I dug a couple of 3-foot-deep holes,
+and put in two 10-foot 4x4 posts, with three 80-pound bags of Quickrete for each
+post. That oughta hold for a few years.
+
+.. image:: images/collector_posts.jpg
+

@@ -29,4 +29,6 @@ Contents:
     principles
     collector
     tank
+    controller
+
 
