@@ -42,3 +42,32 @@ down into the corners.
 
 .. image:: images/tank_half_full.jpg
 
+The water that's circulated between the tank and collector is separate from our
+potable water supply. You wouldn't want to drink this water; it probably tastes
+like rubber anyway. So the heat from the tank needs to be transferred to our
+potable water supply via a heat exchanger. There are a few options for how to do
+this, but I went with a 300-foot coil of 3/4" PEX tubing. This coil sits in the
+storage tank; one end is connected to our residential cold water supply, and the
+other end is connected directly to the cold-water inlet of our electric water
+heater, which becomes our "backup" heater when solar heating is insufficient:
+
+- If the storage tank is nice and hot (120F to 140F), the incoming cold water
+  should gain sufficient heat just by going through the 300-foot PEX coil. In
+  this case, the backup electric water heater won't turn on at all; it'll just
+  serve as a secondary storage tank for hot water we're about to use for
+  showers, dishes, etc.
+- If the storage tank is warm, the incoming cold water at least gains some
+  pre-heating before reaching the backup heater, meaning less work for
+  the backup heater to do. Say the incoming cold water is 60F, and we want it to
+  be 120F: If the solar tank is 90F, that's 50% less energy that the backup
+  heater needs to use.
+- If the storage tank is cold, meaning either that the collector is
+  disconnected, or we've had several cold cloudy days in a row, the cold water
+  comes out of the PEX coil still cold, and will be heated up by the
+  electric water heater, just as if there was no solar system at all.
+
+I've acquired a thermostatic mixing valve, also known as a tempering valve. It's
+not installed yet (it's not clear whether it'll be needed yet), but this will
+temper the hot water coming out of the backup heater to prevent dangerously hot
+water from reaching our faucet fixtures.
+

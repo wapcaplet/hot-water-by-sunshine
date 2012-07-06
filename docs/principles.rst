@@ -14,7 +14,11 @@ environment.
 
 The water heating system I built has two main components:
 
-- Collector: A large surface that is heated by the sun, transferring that heat
-  into copper water pipes
-- Tank: A water tank that stores the accumulated heat
+- Solar Collector: A large surface that is heated by the sun
+- Storage Tank: A water tank that stores the accumulated heat
+
+Of course, there's a little more to it than this, but those account for 90% of
+the materials and effort. Here's a diagram showing how it all fits together:
+
+.. image:: images/system_diagram.png
 
