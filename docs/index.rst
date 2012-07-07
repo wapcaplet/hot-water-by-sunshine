@@ -17,9 +17,13 @@ need to be, what materials I would need, and how much it would cost.
 This summer, I finally got around to doing it. This project documents what I
 learned, including photos of the work in progress as well as the final result.
 
+Everything in this document is published under the `Creative Commons
+Attribution`_ license; basically, you are free to do whatever you like with
+this, as long as you credit me.
+
 .. _Build-It-Solar: http://www.builditsolar.com/
 .. _$1K water heating system: http://www.builditsolar.com/Experimental/PEXColDHW/Overview.htm
-
+.. _Creative Commons Attribution: http://creativecommons.org/licenses/by/3.0/
 
 Contents:
 
