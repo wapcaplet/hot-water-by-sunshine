@@ -25,8 +25,8 @@ mind. Because I had a little extra plywood, I went ahead and increased it to
 around 150 gallons, figuring that it's easier to take out some of the water than
 to make the tank larger later.
 
-The tank is built from 2x4 lumber and 3/4" plywood. Inside that is 2 inches of
-polyiso insulation.
+The tank is built from 2x4 lumber and 19/32" plywood sheathing. Inside that is 2
+inches of polyiso insulation.
 
 .. image:: images/tank_with_insulation.jpg
 

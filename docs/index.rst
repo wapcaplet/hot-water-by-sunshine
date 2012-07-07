@@ -24,7 +24,7 @@ learned, including photos of the work in progress as well as the final result.
 Contents:
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     principles
     collector
