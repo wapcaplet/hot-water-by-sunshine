@@ -61,6 +61,11 @@ the wall.
 
 .. image:: images/differential_controller_completed.jpg
 
+Here are the schematics for the two circuits:
+
+.. image:: images/pump_relay.png
+.. image:: images/temperature_sensors.png
+
 The Arduino can execute whatever code you want, so all I had to do was write up
 a short C program with the logic I wanted to use for turning on the pump. This
 part is still a work in progress, but here's basically how it works, with the
