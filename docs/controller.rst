@@ -71,22 +71,36 @@ a short C program with the logic I wanted to use for turning on the pump. This
 part is still a work in progress, but here's basically how it works, with the
 decision-making going in this order:
 
-- If the collector is cold (below 40F), the pump should be off. This handles the
-  freeze protection; under no circumstances do I want to pump water through a
-  freezing cold collector.
-- If the tank is already hot (above 140F), the pump should be off. This is the
-  safe upper limit I've decided to stick with in order to increase the life of
-  the tank liner.
-- If the collector is X degrees hotter than the tank, turn on the pump.
-  Here, X is a threshold value that I haven't yet determined, but I'm leaning
-  towards about 15 degrees F. That is, if the tank is 70F and the collector is
-  85, it makes sense to turn on the pump. If the tank is 70F and the collector
-  is only 71F, there's not much to be gained by turning on the pump yet.
-- If the collector is Y degrees cooler than the tank, turn off the pump. Again,
-  I haven't yet determined a good Y here, but the point of having two different
-  thresholds is that I can turn on the pump at a certain point, then keep it on
-  until the difference reaches a different point. This could also help to prevent
-  the pump cycling on and off frequently right around the threshold point.
+- **Collector too cold?** If the collector is cold (below 40F), the pump is
+  **off**. This handles the freeze protection; under no circumstances do I want
+  to pump water through a freezing (or near freezing) collector. This takes the
+  highest priority, since freezing could break my collector.
+
+- **Tank already hot?** If the tank is already hot (above 140F), the pump is
+  **off**. This is the safe upper limit I've decided to stick with in order to
+  increase the life of the tank liner and PEX plumbing. Again, high priority
+  because of the possibility of damaging something.
+
+- **Collector hot enough?** If the collector is over 20F hotter than the tank,
+  turn **on** the pump. This is a configurable threshold that is intended to prevent
+  the collector temperature from dropping too rapidly when the colder water
+  begins circulating. For example, if the tank is 70F and the collector is 90F,
+  it makes sense to turn on the pump, but if the tank is 70F and the collector
+  is only 80F, there's not much to be gained by turning on the pump yet.
+
+- **Collector not hot enough?** If the collector is less than 10F hotter than
+  the tank, turn **off** the pump. I found that with less than 10F of difference,
+  the tank might actually lose heat, so this is kind of a "quit while you're
+  ahead" threshold. Also, having a different off-threshold helps prevent the
+  pump from cycling on and off too much.
+
+- **Otherwise...** If none of these conditions applies, don't change state. This
+  only takes effect during the range between the two thresholds. For example, if
+  the collector was hot (pump is already on), and is now cooling down, it may be
+  11F to 19F warmer than the tank. As long as it stays in this range, the pump
+  will stay on, but as soon as the difference drops to 10F, the shut-off
+  condition will be reached. It won't turn on again until it hits the 20-degree
+  differential.
 
 Because of some glitches with my temperature sensors, I added one more
 condition, with the highest priority:
