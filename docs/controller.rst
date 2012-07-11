@@ -1,3 +1,5 @@
+.. _controller:
+
 Pump Controller
 ===============
 
@@ -120,4 +122,6 @@ time I've ever soldered any significant circuitry, and I am still learning, so
 if you fry your Arduino or pump, don't say I didn't warn you.
 
 .. _ardiff: http://github.com/wapcaplet/ardiff
+
+Does it work? Well, see for yourself at :ref:`results`.
 

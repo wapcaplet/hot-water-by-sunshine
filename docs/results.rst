@@ -1,3 +1,5 @@
+.. _results:
+
 Getting Results
 ===============
 
@@ -37,4 +39,5 @@ could see it was definitely working.
 
 .. image:: images/2012-07-10.png
 
+For a breakdown of how much I spent on all this, see :ref:`cost`.
 

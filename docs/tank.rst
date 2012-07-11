@@ -1,3 +1,5 @@
+.. _tank:
+
 Storage Tank
 ============
 
@@ -87,4 +89,8 @@ water from reaching our faucet fixtures.
 And just for fun, I give you: Thermal Accumulation Reservoir, Done In Style:
 
 .. image:: images/tardis.jpg
+
+Getting the hot water circulated between the tank and collector is just a matter
+of hooking up a water pump. Deciding when to turn on the pump is a somewhat
+hairier question, though. For that, I need a :ref:`controller`.
 

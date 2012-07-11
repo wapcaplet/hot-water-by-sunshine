@@ -1,3 +1,5 @@
+.. _collector:
+
 Solar Collector
 ===============
 
@@ -11,9 +13,9 @@ have something like this:
 
 .. image:: images/collector.jpg
 
-It took about a week to assemble with Dad's help. Let's take a look at the
-individual parts. First, there's the box. I made mine using 2x4 lumber and 1/2"
-plywood. It's 8 feet wide by 6 feet high:
+It took about a week to assemble the collector with Dad's help. Let's take a
+look at the individual parts. First, there's the box. I made mine using 2x4
+lumber and 1/2" plywood. It's 8 feet wide by 6 feet high:
 
 .. image:: images/collector_box.jpg
 
@@ -87,9 +89,40 @@ Pretty hot.
 
 .. image:: images/collector_176.jpg
 
-In order to securely mount the collector, I dug a couple of 3-foot-deep holes,
-and put in two 10-foot 4x4 posts, with three 80-pound bags of Quickrete for each
-post. That oughta hold for a few years.
+At this point in the narrative, I suppose I should mention the question of where
+to put a solar collector. Obviously, it's best to place it somewhere that gets a
+lot of sunshine, with relatively few obstacles between the sun and collector. If
+I lived in the middle of the plains with no trees on the South side of my house,
+it'd be easy, but instead I live in suburban Colorado Springs, where there are
+trees, houses, and fences all around, and our house doesn't even face directly
+South. Unless I keep track of which parts of the house are sunny at different
+times of day throughout the year, I'd have only an indistinct notion of which
+area gets the most solar exposure.
+
+Luckily, someone else had already thought of this, and came up with a low-tech
+way to do a `solar site survey`_. With a simple printed-out azimuth and
+elevation gague, and a handy chart showing the path of the sun throughout the
+year at my latitude, it was easy to sketch out the obstacles and find a good
+location for the collector. Here's the survey from the location I chose:
+
+.. _solar site survey: http://www.builditsolar.com/SiteSurvey/site_survey.htm
+
+.. image:: images/site_survey.png
+
+Here, the grey shaded area is the roof of our house (left), as well as the
+neighbor's roof and fence. The green shaded areas are two large deciduous trees
+which will block sun in the summer, but not so much in the winter. The blue
+lines are the path the sun takes, with the topmost one being in June, and the
+bottom one being in December. Counting the number of gaps between red lines, we
+can see that the summer exposure lasts from about 9am to about 6pm--a good 9
+hours of sunshine. Winter isn't so great, having only about 6 hours of sun if
+the trees are bare, but still not bad.
+
+The location decided, it's time to mount the thing. Our back porch is a rickety
+fiberglass structure, so attaching it to the wall there was out of the question.
+Instead, I dug a couple of 3-foot-deep holes, and put in two 10-foot 4x4 posts,
+with three 80-pound bags of Quickrete for each post. That oughta hold for a few
+years.
 
 .. image:: images/collector_posts.jpg
 
@@ -99,8 +132,9 @@ better sun exposure:
 
 .. image:: images/collector_hinge.jpg
 
-The finished collector:
+The finished and mounted collector:
 
 .. image:: images/finished_collector.jpg
 
+Right! Now we can collect some heat. Where to put it? The :ref:`tank` of course.
 

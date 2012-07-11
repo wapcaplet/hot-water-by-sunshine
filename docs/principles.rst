@@ -14,11 +14,19 @@ environment.
 
 The water heating system I built has two main components:
 
-- Solar Collector: A large surface that is heated by the sun
-- Storage Tank: A water tank that stores the accumulated heat
+- :ref:`collector`: A large surface that is heated by the sun
+- :ref:`tank`: A water tank that stores the accumulated heat
 
 Of course, there's a little more to it than this, but those account for 90% of
 the materials and effort. Here's a diagram showing how it all fits together:
 
 .. image:: images/system_diagram.png
+
+The water in the storage tank is only there for collecting and storing heat;
+it's not for drinking! Our potable water flows through a heat exchanger immersed
+in the tank, picking up some of that heat on its way to our regular electric
+water heater.
+
+This document will go over the construction of each component. First, the
+:ref:`collector`.
 
