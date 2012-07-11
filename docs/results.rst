@@ -26,5 +26,15 @@ could see it was definitely working.
   a couple hours of sun brought it up to 93F by the evening. We'll call it a
   6,000 BTU gain.
 
-- **July 8**: The tank was about 90F after our showers.
+- **July 8**: The tank was about 90F after our showers. Only a couple degrees
+  rise today.
+
+- **July 9** and **July 10**: Cloudy and rainy; no significant gain.
+
+- **July 10**: Mostly sunny today; tank went from 87F to 99F, about a 14,000 BTU
+  gain. Finally got one good spread of logged results, making for a pretty
+  graph:
+
+.. image:: images/2012-07-10.png
+
 
