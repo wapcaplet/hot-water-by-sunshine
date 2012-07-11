@@ -101,7 +101,7 @@ area gets the most solar exposure.
 
 Luckily, someone else had already thought of this, and came up with a low-tech
 way to do a `solar site survey`_. With a simple printed-out azimuth and
-elevation gague, and a handy chart showing the path of the sun throughout the
+elevation gauge, and a handy chart showing the path of the sun throughout the
 year at my latitude, it was easy to sketch out the obstacles and find a good
 location for the collector. Here's the survey from the location I chose:
 
