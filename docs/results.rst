@@ -39,5 +39,15 @@ could see it was definitely working.
 
 .. image:: images/2012-07-10.png
 
+- **July 11**: Mostly sunny again. The tank lost about 2F overnight, and another
+  2.5F in the morning (including two showers). The pump turned on at noon, with
+  the tank at a little below 95F; there were a few fluctuations due to scattered
+  clouds, but after an hour the tank began steadily climbing, finally peaking at
+  104F at around 16:30. This is the first time the tank has gone over 100F. Total
+  gain today was about 12,000 BTU. The pink shaded area in the graph shows when
+  the pump was on:
+
+.. image:: images/2012-07-11.png
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
