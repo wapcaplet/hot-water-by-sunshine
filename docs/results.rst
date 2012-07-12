@@ -44,10 +44,18 @@ could see it was definitely working.
   the tank at a little below 95F; there were a few fluctuations due to scattered
   clouds, but after an hour the tank began steadily climbing, finally peaking at
   104F at around 16:30. This is the first time the tank has gone over 100F. Total
-  gain today was about 12,000 BTU. The pink shaded area in the graph shows when
-  the pump was on:
+  gain today was about 12,000 BTU:
 
 .. image:: images/2012-07-11.png
+
+- **July 12**: Another nice sunny day. 2F drop overnight, and about 3F more this
+  morning; the tank was down to 99F by the time the pump turned on at 11:20.
+  Gained about 12F between 11:15 and 17:15, topping out at just over 111F, a
+  14,400 BTU gain. The storage tank is now approaching the temperature of our
+  electrically-heated water--once it reaches 120F, I'll turn off the electric
+  heater and see how well we can do on solar-heated water alone!
+
+.. image:: images/2012-07-12.png
 
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
