@@ -60,5 +60,11 @@ could see it was definitely working.
 
 .. image:: images/2012-07-12.png
 
+- **July 14 - 17**: The tank has been pretty consistently between 110F and 120F,
+  so I turned off the backup electric water heater for a few days to see if we
+  could get by on solar-heated water alone. Verdict: Nearly. Showers weren't
+  quite as hot as I'd like, but it's clear that we're getting the vast majority
+  of heat from solar.
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
