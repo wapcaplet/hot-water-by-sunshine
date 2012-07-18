@@ -66,5 +66,13 @@ could see it was definitely working.
   quite as hot as I'd like, but it's clear that we're getting the vast majority
   of heat from solar.
 
+- **July 18**: I've yet to see the tank go over 120F, despite seeing collector
+  temperatures between 170F and 185F. It's a little puzzling why this would be
+  so; you'd think a temperature differential of 65F would give the incoming
+  water quite a boost, no matter how hot it already is. I may be losing the
+  incoming heat through the circulation pipes (a little of which is still
+  uninsulated), or through water vapor escaping through the tank lid (which,
+  though insulated, is not bolted down tightly).
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
