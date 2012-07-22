@@ -74,5 +74,15 @@ could see it was definitely working.
   uninsulated), or through water vapor escaping through the tank lid (which,
   though insulated, is not bolted down tightly).
 
+- **July 20**: Only checking the tank temperature once a day now (until I get my
+  LCD display from AdaFruit_). Finally, the temperature is over 120F--got a
+  reading of about 126F today.
+
+- **July 21**: Tank went over 131F today. If it stays this hot, the backup water
+  heater shouldn't turn on at all. We're 100% solar, baby!
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
+
+.. _AdaFruit: http://www.adafruit.com/
+
 
