@@ -81,6 +81,11 @@ could see it was definitely working.
 - **July 21**: Tank went over 131F today. If it stays this hot, the backup water
   heater shouldn't turn on at all. We're 100% solar, baby!
 
+- **July 23**: The afternoon tank reading was 135F today, so any fears I had
+  about inefficiencies preventing temps over 120F were allayed. It took the
+  better part of 3 weeks to get here, but I'm finally nearing my target
+  temperature of 140F.
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
 .. _AdaFruit: http://www.adafruit.com/
