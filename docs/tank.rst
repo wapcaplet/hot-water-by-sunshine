@@ -55,12 +55,15 @@ this, but I went with a 300-foot coil of 3/4" PEX tubing:
 Pretty early on, I gave up on any hopes of making it all neatly coiled; some
 plastic zip ties keep it from getting too unruly, but for the most part I don't
 really care if it spills all around the inside of the tank--better thermal
-circulation that way anyhow. The blue tubes in this picture are the tank inlet
-(bottom) and the collector outlet (top).
+circulation that way anyhow. The blue tubes in this picture are the collector
+inlet (bottom) and outlet (top). The inlet obviously needs to remain submerged
+so the pump will stay primed; the outlet cannot be submerged, because it needs
+to allow air in when the water drains out of the collector.
 
-One end is connected to our residential cold water supply, and the other end is
-connected directly to the cold-water inlet of our electric water heater, which
-becomes our "backup" heater when solar heating is insufficient.
+One end of the heat exchanger is connected to our residential cold water supply,
+and the other end is connected directly to the cold-water inlet of our electric
+water heater, which becomes our "backup" heater when solar heating is
+insufficient.
 
 .. image:: images/heat_exchanger_connection.jpg
 
