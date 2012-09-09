@@ -63,10 +63,30 @@ the wall.
 
 .. image:: images/differential_controller_completed.jpg
 
-Here are the schematics for the two circuits:
+Here are the original schematics for the two circuits:
 
 .. image:: images/pump_relay.png
 .. image:: images/temperature_sensors.png
+
+Later, I re-built the controller on a `Proto-Screwshield`_, with an `RGB LCD
+Shield`_ atop it. Instead of an LED to indicate when the pump is on, I made use
+of the LCD backlight color: Red when the pump is on, blue when it's off. It only
+took a minor modification to my controller software to enable it to display the
+collector and tank temperature on the LCD.
+
+.. _RGB LCD Shield: https://www.adafruit.com/products/714
+.. _Proto-Screwshield: https://www.adafruit.com/products/196
+
+.. image:: images/pump_controller_display.jpg
+
+Instead of a relay switch, I used a `Power MOSFET`_ to turn on the pump. I had
+hoped that this would eliminate the bad temperature readings, but no luck on
+that front--I'm still getting the bad readings. Not really a high priority at
+this point, since it works so well otherwise.
+
+.. _Power MOSFET: https://www.adafruit.com/products/355
+
+.. image:: images/fet_controller_v2.jpg
 
 The Arduino can execute whatever code you want, so all I had to do was write up
 a short C program with the logic I wanted to use for turning on the pump. This

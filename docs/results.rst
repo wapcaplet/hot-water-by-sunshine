@@ -86,6 +86,18 @@ could see it was definitely working.
   better part of 3 weeks to get here, but I'm finally nearing my target
   temperature of 140F.
 
+Since July 23, I haven't kept detailed temperature records. Throughout August,
+the tank temperature usually varied between 100F and 115F. We had a lot of
+partly-cloudy days, and the collector only tends to get about 4 hours of full
+sunshine. Unfortunately, the 130F+ temperatures I saw at the end of July have
+not reoccurred; in fact, I don't think it has gone over 120F since then.
+
+Because we bought a couple of window air conditioners in July, so far it's
+impossible to see what effect the solar heating is having on our electric bill.
+The AC usage more than made up for whatever we've been saving. However, now that
+the weather is cooling off, we haven't needed the AC much during the last month;
+our next utility bill should tell the tale.
+
 For a breakdown of how much I spent on all this, see :ref:`cost`.
 
 .. _AdaFruit: http://www.adafruit.com/
